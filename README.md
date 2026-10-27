@@ -2,6 +2,12 @@
 
 Mi primer repositorio yujuu
 
-Estoy practicando Git y GitHub con Platzi.
+mi primera contribucion loca para Github
+
+
+un commit mas desde Github
+
+una actualizacion mas 
 
 un commint mas desde GitHub
+
